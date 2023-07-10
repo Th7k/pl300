@@ -1,0 +1,5 @@
+Manufacturer	Salesperson	Base Location
+VanArsdel	Amanda	Texas
+Natura	Will	England
+Pirum	Miguel	Spain
+Currus	Lorrissa	United States

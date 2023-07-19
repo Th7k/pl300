@@ -1,0 +1,53 @@
+Mastering Data Modeling with Power BI - MS
+
+The Power BI Community Show Ep 5 - The Importance of Data Modeling
+	The Power BI Community Show Ep 5 - The Importance of Data Modeling
+	
+Webinar series: Mastering data modeling with Power BI - 4 episodes
+	
+	Webinar series: Mastering data modeling with Power BI
+	Episode 1 - Data modeling 101: Increasing the impact of Power BI
+	by Jeroen ter Heerdt, Microsoft and Marc Lelijveld, Macaw Netherlands
+		Watch now
+	
+	Webinar series: Mastering data modeling with Power BI
+	Episode 2 - Learn advanced data modeling with Power BI
+	by Jeroen ter Heerdt, Microsoft and Marc Lelijveld, Macaw Netherlands
+		Watch now
+	Webinar series: Mastering data modeling with Power BI
+	Episode 3 - Data modeling for experts with Power BI
+	by Jeroen ter Heerdt, Microsoft and Marc Lelijveld, Macaw Netherlands
+		Watch now
+	Webinar series: Data modeling with Power BI
+	Episode 4 - Calculation groups and composite models
+	By Jeroen ter Heerdt, Microsoft and Marc Lelijveld, Macaw Netherlands
+		Watch now
+
+Ep2 - Resources
+	Review episode one: https://aka.ms/PowerBIModeling101
+	Learning path: Model data in Power BI:
+	https://aka.ms/DataModelingLearningPath
+	Learning path: Use DAX in Power BI Desktop: 
+	https://aka.ms/DAXLearningPath
+	Aggregations in Power BI Desktop: 
+	https://aka.ms/PowerBIDesktopAggregations
+	DAX function: CROSSFILTER: https://aka.ms/DAXCrossfilter
+	Model relationships in Power BI Desktop:
+	https://aka.ms/ModelRelationships
+	Whitepaper: Bidirectional cross-filtering
+	for Power BI Desktop:
+	https://aka.ms/BidirectionalCrossFilteringWhitepaper
+	AdventureWorks 2020 demo dataset: https://aka.ms/AW2020Dataset
+	Easy bulk-edit of column names: 
+	https://aka.ms/PQSplitTextByCharacter
+
+Ep3-Resources
+	Resources
+	→ aka.ms/PBIModelDataLearningPath
+	→ aka.ms/LearningPathDAXPowerBI
+	→ aka.ms/ModelRelationshipsPBIDesktop
+	→ aka.ms/TypesOfFacts
+	→ aka.ms/PBIDesktopGroupingAndBinning
+	→ aka.ms/PBISlowlyChangingDimensions
+	→ aka.ms/AdventureWorksDemoDataset
+→ aka.ms/PowerBICalculationGroups
